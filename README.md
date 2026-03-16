@@ -50,7 +50,7 @@ https://adorable-profiterole-82c46f.netlify.app/
 1. Clone o repositório:
 
 ```
-git clone 
+ git clone [https://github.com/lizhubdev/drip-store.git](https://github.com/lizhubdev/drip-store.git)
 ```
 
 2. Entre na pasta do projeto:
