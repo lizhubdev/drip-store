@@ -1,22 +1,86 @@
-# Digital Store
+# 🛍️ Digital Store - Projeto Front-end
 
-Projeto front-end de uma loja virtual, desenvolvido com **React** e estilizado com **Tailwind CSS v4**. 
-O objetivo deste projeto foi aplicar conhecimentos de estruturação de componentes, roteamento e estilização moderna.
+## 📌 Sobre o Projeto
+
+Este projeto foi desenvolvido como trabalho final da disciplina de Front-end.
+A aplicação consiste em uma loja virtual chamada **Digital Store**, desenvolvida utilizando **React**, seguindo a documentação e o design propostos na atividade.
+
+O objetivo do projeto é aplicar conceitos de desenvolvimento Front-end moderno, organização de componentes e boas práticas de código.
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 
-- [React](https://react.dev/)
-- [Tailwind CSS v4](https://tailwindcss.com/)
-- [Vite](https://vite.dev/)
-- [React Router DOM](https://reactrouter.com/)
+* React
+* Vite
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
 
-## 💻 Funcionalidades
-- Navegação entre páginas (Home, Categorias, Produtos).
-- Interface responsiva utilizando Tailwind CSS.
-- Gerenciamento de estado para carrinho de compras.
+---
 
-## 🛠 Como rodar o projeto localmente
+## 📄 Páginas Desenvolvidas
 
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/lizhubdev/drip-store.git](https://github.com/lizhubdev/drip-store.git)
+O projeto contém as seguintes páginas principais:
+
+* **Home** – Página inicial da loja
+* **Listagem de Produtos** – Exibição dos produtos disponíveis
+* **Visualização do Produto** – Página com detalhes do produto selecionado
+
+---
+
+## 🎨 Design
+
+O layout do projeto foi baseado no design disponibilizado no Figma para a atividade proposta.
+
+---
+
+## 🌐 Deploy do Projeto
+
+O projeto está disponível online no link abaixo:
+
+**Acesse o site:**
+https://adorable-profiterole-82c46f.netlify.app/
+
+---
+
+## ⚙️ Como Rodar o Projeto Localmente
+
+1. Clone o repositório:
+
+```
+git clone 
+```
+
+2. Entre na pasta do projeto:
+
+```
+cd loja-drip
+```
+
+3. Instale as dependências:
+
+```
+npm install
+```
+
+4. Execute o projeto:
+
+```
+npm run dev
+```
+
+5. Abra no navegador:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 👩‍💻 Autora
+
+**Elizabeth Gomes de Sousa**
+
+Projeto desenvolvido para fins acadêmicos.
